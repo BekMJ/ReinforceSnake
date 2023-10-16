@@ -1,4 +1,4 @@
-#Snake Game with Reinforcement Learning
+# Snake Game with Reinforcement Learning
 Objective: Develop a Snake game in Python that not only allows human players to play but also uses reinforcement learning to train an AI agent that can play the game and improve over time.
 
 1. Game Development with Python:
